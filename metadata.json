@@ -1,0 +1,5 @@
+{
+  "name": "SomaliAgro Smart Monitoring",
+  "description": "A comprehensive smart farming dashboard for Somali farmers, featuring real-time sensor data, weather tracking, and AI-powered crop health analysis.",
+  "requestFramePermissions": ["geolocation"]
+}
